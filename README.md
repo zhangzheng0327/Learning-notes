@@ -1,3 +1,3 @@
 # Initial page
 
-- 我是一个demo
+- 该项目用于GitBook内容的同步托管
